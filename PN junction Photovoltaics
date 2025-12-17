@@ -1,0 +1,6 @@
+PN-junction-Photovoltaics/
+├── README.md
+├── Report/
+│   └── PN_Junction_Photovoltaics.pdf
+├── Origin_Files/
+│   └── PN_Junction_Data.opju
